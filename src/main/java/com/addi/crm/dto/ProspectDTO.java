@@ -37,4 +37,7 @@ public class ProspectDTO {
 		this.clientValidatedAgainstNationalArchives = clientValidatedAgainstNationalArchives;
 	}
 
+	
+	
+
 }
